@@ -1,1 +1,14 @@
-
+   Title:Subscription form is missing on the main page.
+   Description:
+   User can't subscribe on main page.
+   Pre-condition: User is on the main page.
+   Steps:
+   1. Scroll page down
+   Actual result: Subscription form is missing.
+   Expected result: Subscription form is presented on the main page.
+   Requirements: R001
+   Enviroument: stage
+   Severity: Major
+   Priority: Medium
+   Atachments:
+   Assignee: developer
